@@ -1,7 +1,7 @@
 {
     "app_id": "com.baljagat.baljagatmobile",
-    "appname": "Baljagat",
-    "desktopappname": "Baljagat Desktop",
+    "appname": "baljagat Mobile",
+    "desktopappname": "Moodle Desktop",
     "versioncode": 3710,
     "versionname": "3.7.1",
     "cache_update_frequency_usually": 420000,
@@ -55,8 +55,6 @@
         "zh-cn": "简体中文",
         "zh-tw": "正體中文"
     },
-    "wsservice": "moodle_mobile_app",
-    "wsextservice": "local_mobile",
     
     "font_sizes": [
         62.5,
@@ -64,8 +62,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://baljagat.in",
-    "sitename": "baljagat",
+    "siteurl": "",
+    "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,

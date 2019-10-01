@@ -6,14 +6,14 @@
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>Baljagat</name>
+    <name>baljagat</name>
 
     <description>
-        Baljagat official app
+        baljagat official app
     </description>
 
     <author href="http://baljagat.in" email="baljagat@gmail.com">
-        Baljagat Mobile team
+        baljagat Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
