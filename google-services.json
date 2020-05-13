@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "463990299589",
-    "firebase_url": "https://baljagatmobile-6e2ed.firebaseio.com",
-    "project_id": "baljagatmobile-6e2ed",
-    "storage_bucket": "baljagatmobile-6e2ed.appspot.com"
+    "project_number": "900737773501",
+    "firebase_url": "https://gruhpathmobile.firebaseio.com",
+    "project_id": "gruhpathmobile",
+    "storage_bucket": "gruhpathmobile.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:463990299589:android:8e7e1dac7faef6076dc9ac",
+        "mobilesdk_app_id": "1:900737773501:android:9838ddf9013bf496632cd4",
         "android_client_info": {
-          "package_name": "com.baljagat.baljagatmobile"
+          "package_name": "com.gruhpath.gruhpathmobile"
         }
       },
       "oauth_client": [
         {
-          "client_id": "463990299589-mgm2023lorq049dg519085lsdsratt96.apps.googleusercontent.com",
+          "client_id": "900737773501-bnlqdegindhp1gn7kqmo299ergrngmmm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyABwnx6C5FT2HOY5tOXXMlbhiaOVfaffqs"
+          "current_key": "AIzaSyBhR5tNHwGR8hTJblLt3cR6CjLVVgN51Wo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "463990299589-mgm2023lorq049dg519085lsdsratt96.apps.googleusercontent.com",
+              "client_id": "900737773501-bnlqdegindhp1gn7kqmo299ergrngmmm.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
