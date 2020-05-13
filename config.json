@@ -1,7 +1,7 @@
 {
-    "app_id": "com.baljagat.baljagatmobile",
-    "appname": "baljagat Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "com.gruhpath.gruhpathmobile",
+    "appname": "gruhpath Mobile",
+    "desktopappname": "gruhpath Desktop",
     "versioncode": 3710,
     "versionname": "3.7.1",
     "cache_update_frequency_usually": 420000,
