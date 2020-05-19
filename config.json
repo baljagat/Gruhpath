@@ -1,7 +1,7 @@
 {
     "app_id": "com.gruhpath.gruhpathmobile",
-    "appname": "gruhpath Mobile",
-    "desktopappname": "gruhpath Desktop",
+    "appname": "Gruhpath Mobile",
+    "desktopappname": "Gruhpath Desktop",
     "versioncode": 3710,
     "versionname": "3.7.1",
     "cache_update_frequency_usually": 420000,
@@ -67,7 +67,7 @@
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
+    "privacypolicy": "https://gruhpath.com",
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
