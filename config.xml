@@ -6,14 +6,14 @@
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>gruhpath</name>
+    <name>Gruhpath</name>
 
     <description>
-        gruhpath official app
+        Gruhpath official app
     </description>
 
     <author href="https://gruhpath.com" email="baljagat@gmail.com">
-        gruhpath Mobile team
+        Anil Sonune
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
